@@ -55,3 +55,4 @@ local.properties
 /.vscode/
 
 /ApexDocumentation/
+!target/ApexDoc-1.2.0-SNAPSHOT.jar
